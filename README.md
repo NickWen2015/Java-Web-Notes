@@ -7,4 +7,5 @@
 ![Aaron Swartz](https://openfile.shixinke.com/images/posts/2018/04/168b9323119552eb88e45d0a83fcceff.png)  
 - JSP 第一次訪問執行如下  
 ![Aaron Swartz](https://openfile.shixinke.com/images/posts/2018/04/1022b9cbb453ff19b666e098517fecdd.png)
-
+## JSP 組成
+- JSP 由HTML、JSP標籤及java程式片段所組成。
