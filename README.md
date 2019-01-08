@@ -5,6 +5,7 @@
 ## JSP 技術原理
 - JSP 執行過程(圖片參考出處：https://www.shixinke.com/java/jsp-basic-usage)
 ![Aaron Swartz](https://openfile.shixinke.com/images/posts/2018/04/168b9323119552eb88e45d0a83fcceff.png)
+| ------ |
 - JSP 第一次訪問執行如下
 ![Aaron Swartz](https://openfile.shixinke.com/images/posts/2018/04/1022b9cbb453ff19b666e098517fecdd.png)
 
